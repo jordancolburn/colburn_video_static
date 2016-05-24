@@ -1,7 +1,8 @@
 doctype
 html
   head
-    title= title
+    title= title    
+    meta(name='viewport', content='width=device-width, initial-scale=1.0')
     link(rel='stylesheet', href='/main.css')
     link(rel='stylesheet', href='/bower_components/bootstrap/dist/css/bootstrap.min.css')
     script(src='https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js')
@@ -27,6 +28,9 @@ html
                         li
                           a(href="/page/#{blogpost.slug}") #{blogpost.title}
     div
-      br
-      br
-    != yield
+      .container
+        .row
+          .col-md-2
+          .col-md-8
+            != yield
+          .col-md-2
