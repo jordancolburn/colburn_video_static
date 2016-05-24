@@ -1,0 +1,37 @@
+h1 This is an example page to show your wp
+h2 Your nav_menu_item
+ul
+  each blogpost in test.nav_menu_item._data
+    li
+      if(blogpost.slug)
+        a(href="test/nav_menu_item/#{blogpost.slug}") #{blogpost.title} #{blogpost.date}
+h2 Your attachment
+ul
+  each blogpost in test.attachment._data
+    li
+      if(blogpost.slug)
+        a(href="test/attachment/#{blogpost.slug}") #{blogpost.title} #{blogpost.date}
+h2 Your post
+ul
+  each blogpost in test.post._data
+    li
+      if(blogpost.slug)
+        a(href="test/post/#{blogpost.slug}") #{blogpost.title} #{blogpost.date}
+h2 Your safecss
+ul
+  each blogpost in test.safecss._data
+    li
+      if(blogpost.slug)
+        a(href="test/safecss/#{blogpost.slug}") #{blogpost.title} #{blogpost.date}
+h2 Your page
+ul
+  each blogpost in page._data
+    li
+      if(blogpost.slug)
+        a(href="page/#{blogpost.slug}") #{blogpost.title} #{blogpost.date}
+h2 Your revision
+ul
+  each blogpost in public.revision._data
+    li
+      if(blogpost.slug)
+        a(href="revision/#{blogpost.slug}") #{blogpost.title} #{blogpost.date}
