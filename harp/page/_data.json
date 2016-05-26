@@ -1,0 +1,22 @@
+{  "ABOUT US" : {
+     "slug": "about-us",
+     "title": "ABOUT US"
+   },
+   "Gallery" : {
+     "slug": "gallery",
+     "title": "GALLERY"
+   },
+   "Packages" : {
+     "slug": "packages",
+     "title": "PACKAGES"
+  },
+  "FAQ": {
+     "slug": "faq",
+     "title": "FAQ"
+  },
+  "CONTACT39" : {
+     "slug": "contact",
+     "title": "CONTACT"
+  }
+} 
+
