@@ -1,8 +1,14 @@
 {
      "name": "My-Harp-App",
      "version": "1.0.0",
+     "engines": {     
+     	"node": "4.x.x"   
+     },
      "description": "A Harp App on Heroku",
      "dependencies": {
        "harp": "*"
+     },
+     "scripts": {
+	"start": "harp server ./harp"
      }
-}
+}	
