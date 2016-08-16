@@ -1,14 +1,16 @@
 {
-     "name": "My-Harp-App",
-     "version": "1.0.0",
-     "engines": {     
-     	"node": "4.x.x"   
-     },
-     "description": "A Harp App on Heroku",
-     "dependencies": {
-       "harp": "*"
-     },
-     "scripts": {
-	"start": "harp server ./harp"
-     }
-}	
+  "name": "My-Harp-App",
+  "version": "1.0.0",
+  "engines": {
+    "node": "4.x.x"
+  },
+  "description": "A Harp App on Heroku",
+  "dependencies": {
+    "clean-urls": "^1.1.5",
+    "express": "^4.14.0",
+    "harp": "*"
+  },
+  "scripts": {
+    "start": "node express_server.js"
+  }
+}
