@@ -1,14 +1,10 @@
 {
-  "name": "My-Harp-App",
+  "name": "ColburnVideoWebsite",
   "version": "1.0.0",
-  "engines": {
-    "node": "4.x.x"
-  },
-  "description": "A Harp App on Heroku",
+  "description": "A Static Website for Colburn Video",
   "dependencies": {
     "clean-urls": "^1.1.5",
-    "express": "^4.14.0",
-    "harp": "*"
+    "express": "^4.14.0"
   },
   "scripts": {
     "start": "node express_server.js"

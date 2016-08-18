@@ -11,7 +11,7 @@
 Everything listed above is included in our base package! Listed below are some extras or "add-ons" you can add to the base package. We also take requests, so if something is not listed, please feel free to ask and we can give you a quote for the add-on!
 
 <hr />
-**Full Ceremony - $500** For brides and grooms who also want the entire ceremony on video.  We usually do a three camera set up - one main shot, and two side shots (one of the bride, one of the groom). We also work with your venue to get the best audio possible.
+**Full Ceremony - $400** For brides and grooms who also want the entire ceremony on video.  We usually do a three camera set up - one main shot, and two side shots (one of the bride, one of the groom). We also work with your venue to get the best audio possible.
 
 **Engagement Video - $300** You can see our engagement stories here - a sweet story telling how you met, fell in love, and got engaged. It's a great video to treasure for years to come! These are really popular to show at your rehearsal dinner, reception, use as save-the-dates, etc.! 
 
