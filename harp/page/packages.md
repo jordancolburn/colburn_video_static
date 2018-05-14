@@ -1,5 +1,5 @@
 #### All wedding films start at $3600 and include:
-* All day coverage (up to 12 hours)
+* All day coverage (up to 10 hours)
 * 2 Videographers
 * 3-4 Minute Wedding Highlight
 * 20-25 Minute Wedding Film
