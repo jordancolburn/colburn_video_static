@@ -16,7 +16,7 @@ Once you have decided to go with us :) we will send you a contract via email. On
 At the moment, no we do not accept credit cards. Checks made out to Colburn Video are best.
 
 #### How much is the deposit?
-We require a $400 non-refundable deposit to officially reserve your day. This will come out of the total price. The remaining balance is due on or before your wedding day.
+We require a $800 non-refundable deposit to officially reserve your day. This will come out of the total price. The remaining balance is due on or before your wedding day.
 
 #### Can you stylize our wedding film?
 We can do lots of different styles. Show us an example of a style you would like i.e. vintage look, black and white - and we can make that happen!
