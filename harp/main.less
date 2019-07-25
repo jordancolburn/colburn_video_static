@@ -1,4 +1,4 @@
-body{
+body {
   font-family: "Helvetica";
   text-align: left;
   background: #ffffff;
@@ -6,14 +6,14 @@ body{
   margin: 0;
 }
 
-h1{
+h1 {
   font-size: 65px;
   line-height: 1.2em;
-  border-bottom: #CCC solid 1px;
+  border-bottom: #ccc solid 1px;
   padding: 20px 0;
 }
 
-h3{
+h3 {
   font-weight: 300;
 }
 
@@ -22,10 +22,10 @@ h3{
 }
 
 .outer-image-container {
-    image-rendering: -webkit-optimize-contrast;
+  image-rendering: -webkit-optimize-contrast;
 }
 
-.featured{
+.featured {
   height: 150px;
   padding: 15px;
 }
@@ -85,6 +85,58 @@ textarea {
   .navbar-wrapper .navbar {
     border-radius: 4px;
   }
-
+  .center-logo {
+    margin-top: 200px;
+  }
 }
 
+.bg-video {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.featured-logos {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.center-logo {
+  margin-top: 100px;
+  left: 0;
+  width: 100%;
+  img {
+    width: 200px;
+  }
+}
+.fullscreen-video {
+  .navbar.navbar-inverse {
+    background-color: transparent;
+    background: transparent;
+    border-color: transparent;
+  }
+
+  .navbar-inverse .navbar-nav > li > a {
+    color: #fff !important;
+  }
+
+  .navbar-brand {
+    display: none;
+  }
+
+  .navbar-inverse .navbar-collapse {
+    border: none;
+  }
+}
+
+.navbar-toggle {
+  border-color: #aaa !important;
+  .icon-bar {
+    background-color: #888;
+  }
+}
