@@ -4,7 +4,8 @@
   "description": "A Static Website for Colburn Video",
   "dependencies": {
     "clean-urls": "^1.1.5",
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "harp": "^0.33.0"
   },
   "scripts": {
     "start": "node express_server.js"
