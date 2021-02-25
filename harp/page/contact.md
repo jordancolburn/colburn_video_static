@@ -1,4 +1,4 @@
-<form action="https://formspree.io/brooke@colburnvideo.com" method="POST">
+<form method="POST" data-netlify="true">
   <div class="form-group">
     <label for="name">Name</label>
     <input type="text" class="form-control" id="name" placeholder="Your Name"></input>
@@ -11,5 +11,5 @@
     <label for="message">Message</label>
     <textarea class="form-control" name="message" rows="10"></textarea>
   </div>
-    <input  class="form-control"  type="submit" value="Send">
+    <button class="form-control">Send</button>
 </form>
