@@ -1,4 +1,4 @@
-<form method="POST" data-netlify="true">
+<form method="POST" netlify>
   <div class="form-group">
     <label for="name">Name</label>
     <input type="text" class="form-control" id="name" placeholder="Your Name"></input>
