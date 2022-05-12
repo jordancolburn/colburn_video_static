@@ -1,11 +1,10 @@
-#### All wedding films start at $5000 and include:
+#### All wedding films start at $3500 and include:
 
-- All day coverage (up to 10 hours)
-- 2 Videographers
-- 3-4 Minute Wedding Highlight
-- 20-25 Minute Wedding Film
-- 3 DVD Copies
-- 1 Jump Drive Copy
+- 8 Hours of Coverage
+- 1 Videographer
+- 6-8 Minute Wedding Film
+- Wedding Reception Toasts
+- Ceremony (single angle edit)
 
 <hr />
 
