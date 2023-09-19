@@ -1,4 +1,4 @@
-#### All wedding films start at $4500 and include:
+#### All wedding films start at $4000 and include:
 
 - 8 Hours of Coverage
 - 1 Videographer
